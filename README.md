@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirravamshi&label=Profile%20views&color=0e75b6&style=flat" alt="chirravamshi" /> </p>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
 
 
 - 🔭 I’m currently working on [AMAZON WEBSITE](https://github.com/chirravamshi/AMAZON-WEBSITE)
