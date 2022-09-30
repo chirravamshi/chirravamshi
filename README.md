@@ -1,6 +1,6 @@
-<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm <img src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/My%20Name%20Gif.gif" height="30px" width="220px"></h1>
+<h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm  Vamshi Chirra</h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+App+Developer;I'm+a+MERN+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+Web+Developer;I'm+a+Ai+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirravamshi&label=Profile%20views&color=0e75b6&style=flat" alt="chirravamshi" /> </p>
 
