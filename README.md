@@ -1,6 +1,6 @@
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm  Vamshi Chirra</h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+Web+Developer;I'm+a+Ai+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+FullStack+Developer;I'm+a+Ai+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirravamshi&label=Profile%20views&color=0e75b6&style=flat" alt="chirravamshi" /> </p>
 
@@ -35,7 +35,7 @@
 </p>
       
 <h2>🤝 Let's stay connected!</h2>
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chirra-vamshi-3214961b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirra-vamshi-3214961b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/vamshi.chirra7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vamshi.chirra7/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucsfuviokuqs9ma4_gbo0isg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsfuviokuqs9ma4_gbo0isg" height="30" width="40" /></a>
