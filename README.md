@@ -45,4 +45,4 @@
 </p>
  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirravamshi&show_icons=true&locale=en&layout=compact" alt="chirravamshi" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chirravamshi&show_icons=true&locale=en&layout=compact" alt="chirravamshi" /></p>
