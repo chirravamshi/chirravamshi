@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [HOTEL BOOKING SYSTEM](https://github.com/chirravamshi/HOTEL-BOOKING-SYSTEM)
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 You can also check out my portfolio at https://chirravamshi.github.io/VamshiChirraPortfolio.github.io/
 
 - 💬 Ask me about **Programming**
 
