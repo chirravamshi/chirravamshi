@@ -1,6 +1,6 @@
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm  Vamshi Chirra</h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+an+FullStack+Developer;I'm+a+Ai+Developer;I'm+a++Freelancer;I+am+a+Machine+Learning+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+Java+Full-Stack+Developer;I'm+a+Software+Developer;I+am+a+Problem-Solving+Enthusiast"/>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <img  align='right' hight="30px" src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
 </div>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [AMAZON WEBSITE](https://github.com/chirravamshi/AMAZON-WEBSITE)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Java Full Stack Development**
 
 - 🤝 I’m looking for help with [HOTEL BOOKING SYSTEM](https://github.com/chirravamshi/HOTEL-BOOKING-SYSTEM)
 
