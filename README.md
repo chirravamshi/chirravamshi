@@ -35,10 +35,10 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>&nbsp;&nbsp;
+  
 
-  <a href="https://spring.io/projects/spring-cloud" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Microservices" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+  <a href="https://spring.io/microservices" target="_blank" rel="noreferrer"> <div align="center"> <div style="font-size: 40px; line-height: 40px;">
+  🔗⚙️</div> <div>Microservices</div> </div> </a>&nbsp;&nbsp;
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
