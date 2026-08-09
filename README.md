@@ -33,6 +33,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>&nbsp;&nbsp;
 
+<!-- DSA -->
+<a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge" alt="Data Structures and Algorithms" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
 <!-- Spring Boot -->
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
