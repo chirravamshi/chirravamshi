@@ -36,7 +36,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   
-
   <a href="https://spring.io/microservices" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge" alt="Microservices" width="60" height="40"/>
   </a>&nbsp;&nbsp;
@@ -44,14 +43,6 @@
    <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/System%20Design-Architecture-blue?style=for-the-badge" alt="SystemDesign" width="90" height="35"/>
    </a>&nbsp;&nbsp;
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -69,8 +60,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
