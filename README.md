@@ -2,7 +2,7 @@
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+Java+Full-Stack+Developer;I'm+a+Software+Developer;I+am+a+Problem-Solving+Enthusiast"/>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  <img  align='right' hight="30px" src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
+  <img  align='right' hight="30px" src="https://github.com/chirravamshi/VamshiChirraPortfolio.github.io/blob/main/images/pic03.jpg">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirravamshi&label=Profile%20views&color=0e75b6&style=flat" alt="chirravamshi" /> </p>
