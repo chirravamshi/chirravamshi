@@ -37,8 +37,12 @@
   </a>&nbsp;&nbsp;
   
 
-  <a href="https://spring.io/microservices" target="_blank" rel="noreferrer"> <div align="center"> <div style="font-size: 40px; line-height: 40px;">
-  🔗⚙️</div> <div>Microservices</div> </div> </a>&nbsp;&nbsp;
+  <a href="https://spring.io/microservices" target="_blank" rel="noreferrer">
+  <img src="YOUR_MICROSERVICES_LOGO_URL"
+       alt="Microservices"
+       width="80"
+       height="80"/>
+</a>&nbsp;&nbsp;
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
