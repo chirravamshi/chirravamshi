@@ -38,11 +38,8 @@
   
 
   <a href="https://spring.io/microservices" target="_blank" rel="noreferrer">
-  <img src="https://w1.pngwing.com/pngs/535/256/png-transparent-microservices-text-computer-software-line-circle-area-diagram-symmetry-organization-thumbnail.png"
-       alt="Microservices"
-       width="80"
-       height="80"/>
-</a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge" alt="Microservices" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
