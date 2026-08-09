@@ -38,7 +38,7 @@
   
 
   <a href="https://spring.io/microservices" target="_blank" rel="noreferrer">
-  <img src="YOUR_MICROSERVICES_LOGO_URL"
+  <img src="https://www.flaticon.com/free-icon/microservices_12465323"
        alt="Microservices"
        width="80"
        height="80"/>
