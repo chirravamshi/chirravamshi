@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **chirravamshi54@gmail.com**
 
-- ⚡ Fun fact **I think I am funny Movies**
+- ⚡ Fun fact **I think I am Mad About Programming**
 
 
 
