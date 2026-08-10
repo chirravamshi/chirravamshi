@@ -1,6 +1,6 @@
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm  Vamshi Chirra</h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Developer;I'm+a+Java+Full-Stack+Developer;I'm+a+Software+Developer;I'm+a+Problem-Solving+Enthusiast"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Software+Engineer;I'm+a+Java+Full-Stack+Developer;I'm+a+Developer;I'm+a+Problem-Solving+Enthusiast"/>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   <img  align='right' hight="30px" src="https://github.com/chirravamshi/VamshiChirraPortfolio.github.io/blob/main/images/pic03.jpg" width="200px">
 </div>
