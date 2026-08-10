@@ -9,15 +9,17 @@
 
 
 
-- 🔭 I’m currently working on [AMAZON WEBSITE](https://github.com/chirravamshi/AMAZON-WEBSITE)
+- 🔭 I’m currently working as **Software Engineer** in E2open
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🛠  I'm also working on my **personal projects**-[AMAZON WEBSITE](https://github.com/chirravamshi/AMAZON-WEBSITE)
+
+- 🌱 I've good skills in **Java Full Stack Development**
 
 - 🤝 I’m looking for help with [HOTEL BOOKING SYSTEM](https://github.com/chirravamshi/HOTEL-BOOKING-SYSTEM)
 
 - 👨‍💻 You can also check out my portfolio at https://chirravamshi.github.io/VamshiChirraPortfolio.github.io/
 
-- 💬 Ask me about **Programming**
+- 💬 Ask me about **Data Structures & Algorithms**
 
 - 📫 How to reach me **chirravamshi54@gmail.com**
 
