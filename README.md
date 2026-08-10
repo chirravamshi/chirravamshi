@@ -5,7 +5,7 @@
   <img  align='right' hight="30px" src="https://github.com/chirravamshi/VamshiChirraPortfolio.github.io/blob/main/images/pic03.jpg" width="200px">
 </div>
 
-<p align="left">  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirravamshi&label=Profile%20views&color=0e75b6&style=flat" alt="chirravamshi" /> </p> </p>
 
 
 
